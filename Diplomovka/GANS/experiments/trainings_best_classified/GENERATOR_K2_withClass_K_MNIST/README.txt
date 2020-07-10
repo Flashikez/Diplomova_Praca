@@ -1,0 +1,1 @@
+Experiment dvojnásobného zväčšenia rozlíšenia datasetu MNIST s klasickou chybovou funkciou

@@ -1,0 +1,1 @@
+Tieto experimenty v práci neprezentujeme

@@ -1,0 +1,1 @@
+Priečinok obsahuje experiment štvornásobného zväčšenia rozlíšenia datasetu FMNIST

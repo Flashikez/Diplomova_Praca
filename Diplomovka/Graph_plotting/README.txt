@@ -1,0 +1,1 @@
+Skripty, ktoré z dát v priečinkoch experiments vytvoria grafy. Tieto grafy boli použité na prezentovanie výsledkov v práci.

@@ -1,0 +1,1 @@
+Priečinok obsahuje triedy trénerov GANov, ktoré boli použité pri datasete Text_Set

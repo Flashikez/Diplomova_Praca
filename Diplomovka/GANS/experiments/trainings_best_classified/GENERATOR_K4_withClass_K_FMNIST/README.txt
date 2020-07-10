@@ -1,0 +1,1 @@
+Experiment štvornásobného zväčšenia datsetu FMNIST

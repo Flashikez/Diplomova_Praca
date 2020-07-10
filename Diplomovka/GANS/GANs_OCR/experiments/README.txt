@@ -1,0 +1,1 @@
+Každý experiment obsahuje predtrénovaný model generátora a diskriminátora a takisto aj vygenrované štatistiky, ktoré boli použité v práci.

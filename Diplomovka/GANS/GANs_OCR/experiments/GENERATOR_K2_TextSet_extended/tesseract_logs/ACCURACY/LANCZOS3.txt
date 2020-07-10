@@ -1,0 +1,2 @@
+correct_predictions:accuracy
+6875:0.6875
